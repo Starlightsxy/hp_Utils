@@ -1,4 +1,4 @@
-package com.hp;
+package io.github.stralightsxy;
 
 /**
  * Hello world!
