@@ -4,7 +4,7 @@
 
   <groupId>io.github.starlightsxy</groupId>
   <artifactId>hp_Utils</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <description>hp工具类</description>
@@ -40,8 +40,6 @@
       </roles>
     </developer>
   </developers>
-
-
 
   <scm>
     <connection>scm:git:git://github.com/Starlightsxy/hp_Utils.git</connection>
